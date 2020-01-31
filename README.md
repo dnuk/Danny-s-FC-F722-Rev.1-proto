@@ -8,3 +8,5 @@ Schematics, List of Components and Production Files - soon!
 ![Top view](https://github.com/dnuk/Danny-s-FC-F722-Rev.1-proto/blob/master/PHOTOS/TOP_ASSEMBLED.jpg)
 
 ![Bottom view](https://github.com/dnuk/Danny-s-FC-F722-Rev.1-proto/blob/master/PHOTOS/BOTTOM_ASSEMBLED.jpg)
+
+![OSD](https://github.com/dnuk/Danny-s-FC-F722-Rev.1-proto/blob/master/PHOTOS/OSD.jpg)
