@@ -11,7 +11,7 @@ At this moment 90% of features was succesfully in-flight tested (except current 
 
 * If would like to buy one of the prototypes, please contact me. There are always some unnecessary boards left from the test batch. The production costs oscillates at level of 32-35 Euro and depends on the quantity of pcb's.
 
-* To report any ideas to implement (or changes) use the ISSUSES tab
+* To report any ideas to implement (or changes) use the ISSUES tab
 
 ![Short manual](https://github.com/dnuk/Danny-s-FC-F722-Rev.1-proto/blob/master/PHOTOS/manual.jpg)
 
