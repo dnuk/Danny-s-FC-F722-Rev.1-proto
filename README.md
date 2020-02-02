@@ -5,7 +5,7 @@ Flight controller in 30*30 size, with STM32F722 uC, Barometer and microSD slot -
 
 * A little about this procject:
 This design has born for test purposes, and to create an alternative for hardware imported from China.
-It was inspired by my favourite MatekF722 flight controller - SD card, resistors on ports, barometer and so on creates ideal setup.
+It was inspired by my favourite MatekF722-std flight controller - SD card, resistors on ports, barometer and so on creates ideal setup. Currently also uses the same target in both betaflight and inav.
 At this moment 90% of features was succesfully in-flight tested (except current and rssi sense)
 
 
